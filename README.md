@@ -26,9 +26,12 @@ The goal of this programming project is for you to master (or at least get pract
 
 Your program is given the name of the input text file as its command line argument (the first and only argument used by this
 program). Note: this implies the user should not be prompted for the name of the input file by the program itself.
-If the filename is omitted from the command line, it is an error. The program should display an error message and terminate. The error message should indicate what went wrong (for example: ”Error: missing name of the input file”).
-If the filename is given but the file does not exist or cannot be opened for reading by the program, for any reason, it is an error. The program should display an error message and terminate. The error message should indicate what went wrong (for example: ”Error: file collisions.csv does not exist.”, but make sure to replace the name with the name of the file with which the program was called).
+
+- If the filename is omitted from the command line, it is an error. The program should display an error message and terminate. The error message should indicate what went wrong (for example: ”Error: missing name of the input file”).
+- If the filename is given but the file does not exist or cannot be opened for reading by the program, for any reason, it is an error. The program should display an error message and terminate. The error message should indicate what went wrong (for example: ”Error: file collisions.csv does not exist.”, but make sure to replace the name with the name of the file with which the program was called).
+
 Your program is NOT ALLOWED to hardcode the input filename in its own code. It is up to the user of the program to specify the name of the input file. Your program should not modify the name of the user-specified file (do not append anything to the name).
+
 Your program may not read the input file more than once.
 Your program may not modify the input file.
 
