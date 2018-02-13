@@ -14,9 +14,9 @@ The program that you write has to be command line based (no graphical interface)
 ### Objectives
 
 The goal of this programming project is for you to master (or at least get practice on) the following tasks:
- working with multi-file programs
- reading data from input files
- using command line arguments
- working with large data sets
- implementing an AVL tree
- writing complex code projects
+* working with multi-file programs
+* reading data from input files
+* using command line arguments
+* working with large data sets
+* implementing an AVL tree
+* writing complex code projects
